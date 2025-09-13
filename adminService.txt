@@ -1,10 +1,11 @@
 add and remover users
 change the role
 manage the database
-closing the connection
+closing the connection with lava
 
 change 1
 change 2 in lava database
 
 creating another thing
+
 
